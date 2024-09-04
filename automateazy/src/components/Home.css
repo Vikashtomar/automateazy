@@ -1,0 +1,27 @@
+.homepage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+
+ 
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+th,
+td {
+    padding: 12px;
+    border: 1px solid #dddddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
